@@ -11,7 +11,7 @@ In reviewing the ride sharing data, it's clear that there is a fairly substantia
 ![Total fares by week DataFrame](./Resources/total_fare_by_week.png)
 
 ##### *Total Fare by City Type Line Chart*
-![Total fares by week DataFrame](./analysis/PyBer_fare_summary.png)
+![Total fares by week Line Chart](./analysis/PyBer_fare_summary.png)
 
 ## Summary
 ### Three business recommendations
